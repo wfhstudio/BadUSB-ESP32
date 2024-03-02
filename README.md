@@ -11,3 +11,5 @@ SDA-33
 SCK-35
 VCC-3.3V
 GND-GND
+
+Flash : https://nugget.dev/
