@@ -13,3 +13,5 @@ VCC-3.3V
 GND-GND
 
 Flash : https://nugget.dev/
+
+Other Flash Online: https://esp.huhn.me/
