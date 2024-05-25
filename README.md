@@ -14,4 +14,4 @@ GND-GND
 
 Flash : https://nugget.dev/
 
-Other Flash Online: https://esp.huhn.me/
+Thanks to Original gitbuh source : https://github.com/DevKitty-io/USB-Nugget
