@@ -1,4 +1,4 @@
-# BadUSB-ESP32
+# USB Nugget / BadUSB-ESP32
 
 Button
 UP-9
